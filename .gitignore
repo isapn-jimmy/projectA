@@ -1,5 +1,5 @@
 bin/
-abc.tmp
+*.tmp
 
 # Compiled class file
 *.class
